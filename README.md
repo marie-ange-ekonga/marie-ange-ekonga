@@ -23,7 +23,7 @@ Système d'appel basé sur l'IA utilisant un modèle CNN (InsightFace) pour une 
 ### 💊 [Application Web de Gestion de Pharmacie](https://github.com/marie-ange-ekonga/pharmacy-management-system.git))
 Application web complète pour la gestion des stocks, des ventes et des commandes, avec un système d'alertes intelligentes.
 
-### 💅 [Site Web pour Salon de Beauté](Lien vers le dépôt)
+### 💅 [Site Web pour Salon de Beauté](https://github.com/marie-ange-ekonga/beauty-salon-website)
 Site web responsive et interactif pour un salon de beauté, incluant un catalogue de services et un système de prise de rendez-vous.
 
 ### 📱 [Gestionnaire de Contacts Android](Lien vers le dépôt)
