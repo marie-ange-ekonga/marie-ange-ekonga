@@ -17,7 +17,7 @@
 
 ## 🚀 Projets Phares
 
-### 🎓 [Système de Reconnaissance Faciale pour l'Appel](Lien vers le dépôt)
+### 🎓 [Système de Reconnaissance Faciale pour l'Appel](marie-ange-ekonga/attendance-system-face-recogn)
 Système d'appel basé sur l'IA utilisant un modèle CNN (InsightFace) pour une reconnaissance en temps réel avec une précision de 95%.
 
 ### 💊 [Application Web de Gestion de Pharmacie](Lien vers le dépôt)
