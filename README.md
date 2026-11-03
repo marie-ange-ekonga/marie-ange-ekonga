@@ -17,7 +17,7 @@
 
 ## 🚀 Projets Phares
 
-### 🎓 [Système de Reconnaissance Faciale pour l'Appel]([marie-ange-ekonga/attendance-system-face-recogn](https://github.com/marie-ange-ekonga/attendance-system-face-recogn))
+### 🎓 [Système de Reconnaissance Faciale pour l'Appel](https://github.com/marie-ange-ekonga/attendance-system-face-recogn)
 Système d'appel basé sur l'IA utilisant un modèle CNN (InsightFace) pour une reconnaissance en temps réel avec une précision de 95%.
 
 ### 💊 [Application Web de Gestion de Pharmacie](Lien vers le dépôt)
@@ -43,4 +43,4 @@ Application mobile Android (Java, SQLite) pour gérer des contacts avec des opé
 
 *   **Email** : [ekongamarie@gmail.com](mailto:ekongamarie@gmail.com)
 *   **Site Web** : [https://eti-site.onrender.com/](https://eti-site.onrender.com/)
-*   **LinkedIn** : [Ajoute ton lien LinkedIn ici]
+*   **LinkedIn** : [www.linkedin.com/in/marie-ange-ekonga-092a04440](https://www.linkedin.com/in/marie-ange-ekonga-092a04440/)
