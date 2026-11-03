@@ -20,7 +20,7 @@
 ### 🎓 [Système de Reconnaissance Faciale pour l'Appel](https://github.com/marie-ange-ekonga/attendance-system-face-recogn)
 Système d'appel basé sur l'IA utilisant un modèle CNN (InsightFace) pour une reconnaissance en temps réel avec une précision de 95%.
 
-### 💊 [Application Web de Gestion de Pharmacie](Lien vers le dépôt)
+### 💊 [Application Web de Gestion de Pharmacie](https://github.com/marie-ange-ekonga/pharmacy-management-system.git))
 Application web complète pour la gestion des stocks, des ventes et des commandes, avec un système d'alertes intelligentes.
 
 ### 💅 [Site Web pour Salon de Beauté](Lien vers le dépôt)
